@@ -1,5 +1,7 @@
 # Open Source Checklist
 
+This repository has been **ARCHIVATED** and moved to the [libresource/open-source-checklist](https://github.com/libresource/open-source-checklist)
+
 # Quick start
 
 Open Source Project Checklist place in [CHECKLIST.md](https://github.com/quillcraftsman/open-source-checklist/blob/main/CHECKLIST.md).
